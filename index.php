@@ -1,4 +1,5 @@
 <?php
-	//测试
-	echo phpinfo();
+mi df
+dfd
+dfd
 

@@ -1,4 +1,5 @@
 <?php
-	//测试
+	//测试dfsdfsdaf
 	echo phpinfo();
 
+namesapace
